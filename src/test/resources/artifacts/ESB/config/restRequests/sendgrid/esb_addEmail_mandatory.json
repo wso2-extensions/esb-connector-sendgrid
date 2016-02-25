@@ -1,0 +1,10 @@
+{
+  "apiUrl": "%s(apiUrl)",
+  "apiUser": "%s(apiUser)",
+  "apiKey": "%s(apiKey)",
+  "list": "%s(addEmailListName)",
+  "data": {
+    "email": "%s(addEmailName)",
+    "name": "%s(emailOfEmailId)"
+  }
+}
