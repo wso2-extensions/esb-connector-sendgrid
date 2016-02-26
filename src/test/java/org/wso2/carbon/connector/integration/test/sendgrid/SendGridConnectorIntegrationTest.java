@@ -48,7 +48,7 @@ public class SendGridConnectorIntegrationTest extends ConnectorIntegrationTestBa
 
         apiRequestHeadersMap = new HashMap<String, String>();
 
-        init("sendgrid-connector-1.0.0");
+        init("sendgrid-connector-1.0.1-SNAPSHOT");
 
         esbRequestHeadersMap.put("Accept-Charset", "UTF-8");
         esbRequestHeadersMap.put("Content-Type", "application/json");
