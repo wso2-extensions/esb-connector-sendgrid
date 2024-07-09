@@ -4,7 +4,7 @@
     "category": "Sales and Marketing",
     "documentationUrl": "https://docs.wso2.com/display/ESBCONNECTORS/SendGrid+Connector",
     "description": "The SendGrid connector allows you to send email without having to maintain email servers. The connector uses the Marketing Email API to connect to SendGrid and work with categories, emails, lists, marketing email and more. ESB Templates used to send the requests to the SendGrid REST endpoints. SendGrid using the BASIC authentication. Here your account username and password are the apiUser and apiKey respectively.",
-    "status": "Unsupported",
+    "status": "Active",
     "labels": [
         "connector"
     ],
